@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Home</title>
+    <link rel="stylesheet" href="../css/main.css">
+</head>
+<body onload="loadConversions()">
+    <nav>
+        <button id="logout">Logout</button>
+        <ul class="nav-item">
+            <li >
+                <a href="home.html">Home</a>
+            </li>
+            <li >
+                <a href="">Chats</a>
+            </li>
+            <li>
+                <a href="profile.html">Profile</a>
+            </li>
+            <li>
+                <a href="directMessage.html">Direct Message</a>
+            </li>
+        </ul>
+    </nav>
+
+    <section id="main-section">
+        <div>
+            <form id="write-post">
+                <label for="message">Write post</label>
+                <textarea name="message" id="message"></textarea>
+                <input id="submit" type="submit" value="post">
+            </form>
+        </div>
+
+        <div id="posts">
+        </div>
+    </section>
+
+    <script src="../js/home.js"></script>
+</body>
+</html>

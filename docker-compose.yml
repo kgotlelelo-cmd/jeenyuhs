@@ -1,0 +1,17 @@
+version: '3.8'
+services:
+#  client:
+#    container_name: jeenyuhs_client
+#    build:
+#      context: .
+#      dockerfile: client.Dockerfile
+#    ports:
+#      - "80:80"
+
+  server:
+    container_name: jeenyuhs_server
+    build:
+      context: .
+      dockerfile: server.Dockerfile
+    ports:
+      - "7070:7070"

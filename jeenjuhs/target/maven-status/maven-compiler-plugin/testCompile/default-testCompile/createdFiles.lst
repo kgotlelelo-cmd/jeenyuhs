@@ -1,0 +1,5 @@
+za/co/wethinkcode/jeenyuhs/acceptanceTest/websocketsTests/websocketsTests.class
+za/co/wethinkcode/jeenyuhs/acceptanceTest/httpTests/acceptanceTests.class
+za/co/wethinkcode/jeenyuhs/databaseTest/databaseTest.class
+za/co/wethinkcode/jeenyuhs/utils/WebsocketClientTest.class
+za/co/wethinkcode/jeenyuhs/utils/WebsocketClientTest$MyWebSocket.class

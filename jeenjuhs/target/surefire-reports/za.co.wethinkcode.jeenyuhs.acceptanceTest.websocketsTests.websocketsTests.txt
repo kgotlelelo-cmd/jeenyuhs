@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: za.co.wethinkcode.jeenyuhs.acceptanceTest.websocketsTests.websocketsTests
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 21.083 s - in za.co.wethinkcode.jeenyuhs.acceptanceTest.websocketsTests.websocketsTests

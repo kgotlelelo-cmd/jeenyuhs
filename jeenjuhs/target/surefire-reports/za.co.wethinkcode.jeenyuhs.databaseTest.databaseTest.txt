@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: za.co.wethinkcode.jeenyuhs.databaseTest.databaseTest
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.375 s - in za.co.wethinkcode.jeenyuhs.databaseTest.databaseTest
